@@ -33,7 +33,6 @@
 ## Customization
 By changing the parameters you can customize the QR-code to your liking.
 You can then scan them with whatever app you prefer. (Tested with Google Lens)  
-
 <img src="./codes/test-qr1.jpg" width="150">
 <img src="./codes/test-qr2.jpg" width="150">
 <img src="./codes/test-qr3.jpg" width="150">
