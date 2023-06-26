@@ -17,9 +17,9 @@
 … all while the user gets real-time status updates
 
 ## Setup
-1. Add the Discord bot to your server using the URL below (requires server admin privileges)
-2. Change `the DISCORD_BOT_TOKEN` in `env.py` to your own bot token
-3. Run the bash- or python script
+1. Add the Discord bot to your server using [this link](https://discord.com/api/oauth2/authorize?client_id=1091729782414266408&permissions=8&scope=bot) (requires server admin privileges)
+3. Change the `DISCORD_BOT_TOKEN` in `env.py` to your own bot token
+4. Run the bash- or python script
 
 ## Usage
 1. Send a message in any channel where the bot has the privileges to read/write messages. The message MUST include the following:
